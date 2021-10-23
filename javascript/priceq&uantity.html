@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <script lang="javascript">
+
+        var price,qty,dis,total_price,x;
+        price = parseInt(prompt("Enter Price "));
+        qty = parseInt(prompt("Enter quantity ")); 
+
+        x = qty*price;
+        dis = 15/100*x;
+        total_price = x+dis;
+        document.write("Total Price : "+total_price);
+
+    </script>
+    
+</body>
+</html>
