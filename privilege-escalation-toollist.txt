@@ -1,0 +1,9 @@
+1-Linenum
+2-linux-exploit-suggester
+3-linux-exploit-suggester2
+4-impacket
+5-jaws
+6-payloadallthethings
+7-privilege-escalation-awesome-scripts
+8-windows-exploit-suggester
+9-lse.sh
