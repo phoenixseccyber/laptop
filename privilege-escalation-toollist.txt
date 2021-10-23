@@ -7,3 +7,4 @@
 7-privilege-escalation-awesome-scripts
 8-windows-exploit-suggester
 9-lse.sh
+10-kerbrute
