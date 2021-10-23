@@ -1,0 +1,7 @@
+Description to run the files
+
+use g++ in place of gcc
+
+example:
+    1) g++ first.cpp -o first(create this file use touch command).
+    2) ./first(now the first is binary so run it as shown).
